@@ -2,17 +2,11 @@
 
 I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
-## I Write
+## Write
 
 - About tech, productivity and life on my **[Blog](https://mohitkhare.me/blog/)** 🖊
 
 - **[Learncamp](https://mohitkhare.me/learncamp/)** where I share my learnings in short journals. 📖
-
-## Work
-
-Professionally, I work as a **Product Engineer** at **[Gojek](http://gojek.io/)**
-
-Currently, I am building **[Taski](https://usetaski.com) 🚀** and something interesting in Flutter 🔥
 
 ## Love
 
@@ -22,6 +16,12 @@ Currently, I am building **[Taski](https://usetaski.com) 🚀** and something in
   - Outdoor - Cricket, Badminton, Football ❤️️
 - exploring new places and watching travel vlogs 😅
 - Dancing
+
+## Work
+
+- Professionally, I work as a **Product Engineer** at **[Gojek](http://gojek.io/)**
+
+- Currently, I am building **[Taski](https://usetaski.com) 🚀** and something interesting in Flutter 🔥
 
 **Reach out to me or just send new memes 😛**
 
