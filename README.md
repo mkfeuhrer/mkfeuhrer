@@ -9,6 +9,12 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
 -  📖 **[Learncamp Substack](http://learncamp.substack.com/)** where I share my learnings in short journals.
 
+#### Popular Blogs
+- [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
+- [Boost Productivity with Chrome Extensions](https://mohitkhare.me/blog/productivity-chrome-extensions/)
+- [Sessions using Golang and Redis](https://mohitkhare.me/blog/sessions-in-golang/)
+- [Improve your productivity with VS Code](https://mohitkhare.me/blog/producitvity-in-vscode/)
+
 ## Work
 
 - Professionally, I work as a **Product Engineer** at **[Gojek](http://gojek.io/)**
