@@ -3,12 +3,11 @@
 I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
 
-
 ## Write
 
 - 🖊 About tech, productivity and life on my **[Blog](https://mohitkhare.me/blog/)** 
 
--  📖 **[Learncamp](https://mohitkhare.me/learncamp/)** where I share my learnings in short journals.
+-  📖 **[Learncamp Substack](http://learncamp.substack.com/)** where I share my learnings in short journals.
 
 ## Work
 
@@ -16,7 +15,7 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
 - Currently, I am building **[Taski](https://usetaski.com) 🚀** and something interesting in Flutter 🔥
 
-- Building **[Devsheets](http://mohitkhare.me/devsheets) ✅** - Cheatsheets for everything "Tech"
+- Building **[Devsheets](http://mohitkhare.me/devsheets) ✅** - Cheatsheets for everything "Tech" 💻
 
 
 ## Links
