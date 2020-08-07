@@ -8,7 +8,7 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 - 🖊 About tech, productivity and life on my **[Blog](https://mohitkhare.me/blog/)** 
 -  📖 **[Learncamp Substack](http://learncamp.substack.com/)** where I share my learnings in short journals.
 
-#### Popular Blogs
+### Popular Blogs
 - [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
 - [Boost Productivity with Chrome Extensions](https://mohitkhare.me/blog/productivity-chrome-extensions/)
 - [Sessions using Golang and Redis](https://mohitkhare.me/blog/sessions-in-golang/)
