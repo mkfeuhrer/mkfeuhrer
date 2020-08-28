@@ -5,11 +5,11 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
 ## Writing
 
-- 🖊 About tech, productivity and life on my **[Blog](https://mohitkhare.me/blog/)** 
+- 🖊 About tech, productivity and life on my **[Blog](https://mohitkhare.com)** 
 -  📖 **[Learncamp Substack](http://learncamp.substack.com/)** where I share my learnings in short journals.
 
 ### Popular Blogs
-- [Personal OKRs for Success](https://mohitkhare.me/blog/personal-okrs/)
+- [Personal OKRs for Success](https://www.mohitkhare.com/blog/personal-okrs)
 - [Boost Productivity with Chrome Extensions](https://mohitkhare.me/blog/productivity-chrome-extensions/)
 - [Sessions using Golang and Redis](https://mohitkhare.me/blog/sessions-in-golang/)
 - [Improve your productivity with VS Code](https://mohitkhare.me/blog/producitvity-in-vscode/)
@@ -22,7 +22,7 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
 ## Connect
 
-- 😎 **[Portfolio](https://mohitkhare.me/)** : All about me
+- 😎 **[Portfolio](https://mohitkhare.com/about)** : All about me
 - 💡 **[Twitter](https://twitter.com/mkfeuhrer)** : You'll find all kind of interesting updates here 🎈
 - 💼 **[Linkedin](https://www.linkedin.com/in/mohitkhare1996)** - Let's connect, Open to exciting opputunities.
 
