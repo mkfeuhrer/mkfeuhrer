@@ -20,8 +20,8 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 - Building **[Taski](https://usetaski.com) 🚀** 
 - Building **[Learnshots](http://learnshots.app) ✅** - Curated learning resources from internet around
 Tech, Programming, Startups and Productivity
-- [Devsheets](https://devsheets.vercel.app/)
-- [Acrons](https://acrons.vercel.app/)
+- **[Devsheets](https://devsheets.vercel.app/)**
+- **[Acrons](https://acrons.vercel.app/)**
 
 ## Connect
 
