@@ -16,7 +16,7 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 
 ## Work
 
-- Professionally, I work as a **Product Engineer** at **[Gojek](http://gojek.io/)**
+- Professionally, I work as a **Senior Backend Engineer** at **[CRED](https://cred.club/)**. Previous: Gojek, Goldman Sachs
 - Building **[Taski](https://usetaski.com) 🚀** 
 - Building **[Learnshots](http://learnshots.app) ✅** - Curated learning resources from internet around
 Tech, Programming, Startups and Productivity
