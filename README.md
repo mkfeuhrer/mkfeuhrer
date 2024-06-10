@@ -13,12 +13,13 @@ I am Mohit, developer soul from 🇮🇳 who solves problems with code 💻
 - [Sessions using Golang and Redis](https://mohitkhare.me/blog/sessions-in-golang/)
 - [Improve your productivity with VS Code](https://mohitkhare.me/blog/producitvity-in-vscode/)
 - [Guide to Hexagonal Architecture](https://www.mohitkhare.com/blog/hexagonal-architecture/)
+- [Guide to Rule Engines](https://www.mohitkhare.com/blog/guide-to-rule-engines/)
 
 ## Work
 
 - Professionally, I work as a **Senior Backend Engineer** at **[CRED](https://cred.club/)**. Previous: Gojek, Goldman Sachs
 - Building **[Taski](https://usetaski.com) 🚀** 
-- Building **[Learnshots](http://learnshots.app) ✅** - Curated learning resources from internet around
+- Building **[Learnshots](https://learnshots.netlify.app/) ✅** - Curated learning resources from internet around
 Tech, Programming, Startups and Productivity
 - **[Devsheets](https://devsheets.vercel.app/)**
 - **[Acrons](https://acrons.vercel.app/)**
